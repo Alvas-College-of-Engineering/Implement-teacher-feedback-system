@@ -281,7 +281,9 @@ This project is suitable for:
 Free to use for educational purposes.
 
 ## 👨‍💻 Author
-
+Karthik TS
+Computer Science Engineering Student
+Interested in Java Development & Cybersecurity
 Created as a professional Java learning project.
 
 ---
